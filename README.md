@@ -6,9 +6,7 @@ Proyecto de control de un brazo robótico en tiempo real utilizando un ESP32-S3 
 
 **Video de funcionamiento:**
 
-[![Demo del proyecto](docs/MINIATURA.png)](docs/ACTIVIDAD4_VIDEO.mp4)
-
-> Si el video no se reproduce directamente en GitHub, descárgalo desde [`docs/ACTIVIDAD4_VIDEO.mp4`](docs/ACTIVIDAD4_VIDEO.mp4).
+[![Demo del proyecto](docs/MINIATURA.png)]
 
 **Simulación del brazo robótico:**
 

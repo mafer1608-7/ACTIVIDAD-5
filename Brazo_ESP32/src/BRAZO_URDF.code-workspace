@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Downloads/BRAZO_URDF"
+		},
+		{
+			"name": "Brazo_ESP32",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
